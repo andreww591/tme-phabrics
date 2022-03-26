@@ -9,6 +9,7 @@
 /config.status
 /config.log
 /generic/fb-xlat-auto.c
+/host/gtk/gtk-keymap.h
 /ic/ieee754/ieee754-misc-auto.c
 /libltdl/loaders/.dirstamp
 /libtme/recode-host.c
